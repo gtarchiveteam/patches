@@ -27,7 +27,7 @@
       "GameLink":null,
       "ManifestId":9066807640258182301,
       "IsSteam":true,
-      "IsBeta":true
+      "Branch":"beta"
    },
    {
       "PatchName":"Halloween 2022",
