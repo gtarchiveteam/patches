@@ -7,7 +7,7 @@
       "GameLink":null,
       "ManifestId":5272615492296865291,
       "IsSteam":true,
-      "IsBeta":false
+      "Branch":"public"
    },   
    {
       "PatchName":"Neon Colors",
@@ -17,7 +17,7 @@
       "GameLink":null,
       "ManifestId":1831142320395008381,
       "IsSteam":true,
-      "IsBeta":false
+      "Branch":"public"
    },
    {
       "PatchName":"Mountains Beta",
@@ -37,7 +37,7 @@
       "GameLink":null,
       "ManifestId":4819580441710160978,
       "IsSteam":true,
-      "IsBeta":false
+      "Branch":"public"
    },
    {
       "PatchName":"Steam Release",
@@ -47,6 +47,6 @@
       "GameLink":null,
       "ManifestId":2218992975128065135,
       "IsSteam":true,
-      "IsBeta":false
+      "Branch":"public"
    }
 ]
