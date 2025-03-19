@@ -5,9 +5,10 @@
       "PatchDescription":"Notable for having CanDrop exploits, allowing you to freely detatch and move your cosmetics. Fun for modding!",
       "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/candrop.xdelta",
       "GameLink":null,
+      "GameName":"Gorilla Tag",
       "ManifestId":5272615492296865291,
       "IsSteam":true,
-      "IsBeta":false
+      "Branch":"public"
    },   
    {
       "PatchName":"Neon Colors",
@@ -15,9 +16,10 @@
       "PatchDescription":"The last build to have unclamped color values. Also notable for being the first version to have the MOTD, various tap sounds, rock gorilla particles, etc.",
       "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/neon.xdelta",
       "GameLink":null,
+      "GameName":"Gorilla Tag",
       "ManifestId":1831142320395008381,
       "IsSteam":true,
-      "IsBeta":false
+      "Branch":"public"
    },
    {
       "PatchName":"Mountains Beta",
@@ -25,9 +27,10 @@
       "PatchDescription":"Overall just a blast of an update. Tons of movement glitches, lots of things to have fun with. Most clones are on this version. Of course, our servers are better than those clones ;3",
       "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/mtnsbeta.xdelta",
       "GameLink":null,
+      "GameName":"Gorilla Tag",
       "ManifestId":9066807640258182301,
       "IsSteam":true,
-      "IsBeta":true
+      "Branch":"beta"
    },
    {
       "PatchName":"Halloween 2022",
@@ -35,9 +38,10 @@
       "PatchDescription":"One of the very few fun updates that post-expansion Another Axiom made. Everyone knows it!",
       "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/hallo22.xdelta",
       "GameLink":null,
+      "GameName":"Gorilla Tag",
       "ManifestId":4819580441710160978,
       "IsSteam":true,
-      "IsBeta":false
+      "Branch":"public"
    },
    {
       "PatchName":"Steam Release",
@@ -45,8 +49,20 @@
       "PatchDescription":"The very first version released to the Steam store. Not much to say here but it has a funny lookin' monitor and the weird stump thingies",
       "PatchLink":"https://github.com/gtarchiveteam/patches/raw/main/xdelta/release.xdelta",
       "GameLink":null,
+      "GameName":"Gorilla Tag",
       "ManifestId":2218992975128065135,
       "IsSteam":true,
-      "IsBeta":false
+      "Branch":"public"
+   },
+   {
+      "PatchName":"Stick Turn Fix",
+      "PatchShorthand":"StickTurnFix",
+      "PatchDescription":"The last version to lack Forest. Relish in the completely Unity Editor contstructed maps and the *original* Caves.",
+      "PatchLink":"https://github.com/gtarchiveteam/patches/raw/refs/heads/main/xdelta/StickTurnFix.xdelta",
+      "GameLink":"https://cdn.discordapp.com/attachments/671857084291219505/767647034534002749/StickTurnFix.zip?ex=67db17c3&is=67d9c643&hm=35db0681949c1b79f697361f0f6367d3ffc11f5eca4ba91863bc106a3581981c&",
+      "GameName":"GorillaTag",
+      "ManifestId":null,
+      "IsSteam":false,
+      "Branch":null
    }
 ]
